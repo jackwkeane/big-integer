@@ -1,5 +1,8 @@
 # Project Grade: 100.0/100.0
-All programs were written and optimized for X86-64 machines with gcc module 7.10
+Completed fall of 2021 as a part of Lehigh University's CSE 109: System Software.
+
+# Note:
+All programs were written and optimized for X86-64 machines with gcc module 7.10.
 
 # CSE202-Big-Integer-SP2022
 Big-Integer: A programming exercise to create a new type for big integers (128 bits), store, access and manipulate big integers using bit-level and arithmetic operations
